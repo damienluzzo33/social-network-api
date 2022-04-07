@@ -122,3 +122,9 @@ module.exports = {
         }
     }
 }
+
+//* DATA STRUCTURE
+//* {
+//*   "username": "damienluzzo33",
+//*   "thoughtText": "This is the thought I am having..."
+//* }

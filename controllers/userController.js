@@ -141,28 +141,9 @@ module.exports = {
     },
 }
 
+
+//* DATA STRUCTURE
 //* {
 //*   "username": "lernantino",
 //*   "email": "lernantino@gmail.com"
 //* }
-
-
-// userRouter.post("/:userId/friends/:friendId", async (req,res) => {
-//     //* add a new friend to friends list
-//     try {
-
-//     } catch (err) {
-//         console.log(err);
-//         res.status(500).json(err);
-//     }
-// })
-
-// userRouter.delete("/:userId/friends/:friendId", async (req,res) => {
-//     //* remove a friend from the list
-//     try {
-
-//     } catch (err) {
-//         console.log(err);
-//         res.status(500).json(err);
-//     }
-// })
